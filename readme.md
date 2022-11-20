@@ -3,7 +3,7 @@
 1er programa en C
 > code:
 
-c
+```c
 
 #include <stdio.h>
 
